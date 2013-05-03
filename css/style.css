@@ -1,0 +1,1619 @@
+/*STYLE FOR NEW TEMPLATE TOOL 11-6-12 */
+/************MAIN STYLE**************************/
+/************STYLE FOR MAIN TAB DIVS*************/
+#tabs { 
+height: 100%;
+}
+#tabs-2 {
+height: 950px;	
+}
+#tabs-3 {
+height: 850px;	
+}
+#tabs-4 {
+height: 710px;
+margin-top: 20px;
+}
+#tabs-5 {
+height: 700px;	
+}
+#tabs-6 {
+height: 750px;	
+}
+#tabs-7 {
+height: 1170px;	
+}
+#tabs-8 {
+height: 800px;	
+}
+/**********MAIN CONTAINER***********************/
+#main_container h2 {
+color: #40428F;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+padding-bottom: 15px;
+}
+/**********************STYLE FOR TAB 1 - DASH BOARD***********************/
+.tab-1-container {
+padding-top: 35px;	
+}
+.grid_4.alpha {
+width: 340px;	
+}
+.grid_4.omega {
+padding-bottom: 15px;
+width: 340px; 	
+}
+.grid_11.alpha {
+width: 915px;	
+}
+.ui-widget-header.module {
+background-image:url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+border-bottom: none;
+height: 40px;
+font-size: 26px;
+}
+.ui-widget-content.module {
+height: 230px;
+border-color: #1C94C4;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.icon {
+float: left;
+padding-right: 5px;
+}
+.send-email {
+text-align: center;
+margin-top: 15px;
+}
+.history {
+background-image:url('http://sandbox.my.iboomerang.com/img/history_btn.png');
+}
+.greenButton {
+background-image:url('http://sandbox.my.iboomerang.com/img/green_btn_bg.png');
+}
+/******************SEND TEXT CSS*******************************/
+#sendTextForm {
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+table.sendTextMessage {
+font-size: 12px;
+width: 436px;
+margin-bottom: 10px;
+float: left;
+color: #3C3E8B;
+font-size: 16px;
+font-weight: bold;  
+}
+table.sendTextMessage td {
+padding: 5px;
+}
+table.sendTextMessage input {
+float: right;
+width: 172px;
+margin-right: 35px;
+}
+table.sendTextMessage select {
+float: right;
+width: 177px;
+margin-right: 34px;
+}
+table.sendTextMessage textarea {
+float: right;
+width: 172px;
+margin-right: 33px;
+height: 146px;
+}
+#txtphone1 {
+float: right; 
+width: 30px;
+margin-right: 83px;	
+}
+#txtphone2 {
+float: right; 
+width: 30px;
+margin-right: 11px;
+}
+#txtphone3 {
+float: right;
+width: 30px;
+margin-right: 11px;	
+}
+#textButton {
+margin-left: 309px;
+margin-top: 26px;	
+}
+/******************STYLE FOR DIV BUTTONS***********************/
+.button1 {
+padding-top: 45px;
+padding-left: 50px;	
+}
+.button2 {
+padding-top: 40px;
+padding-left: 50px;	
+}
+.button3 {
+padding-top: 30px;
+padding-left: 80px;	
+}
+.button4 {
+padding-top: 30px;
+padding-left: 50px;	
+}
+.button5 {
+padding-top: 40px;
+padding-left: 50px;	
+}
+.send-btn {
+position:relative;
+float:left;
+}
+.send-btn .send-text {
+font-size: 17px;
+color: #fff;
+left: 40px;
+position: absolute;
+top: 2px;
+}
+.send-btn .lists-text {
+font-size: 17px;
+color: #fff;
+left: 50px;
+position: absolute;
+top: 2px;
+}
+.send-btn .series-text {
+font-size: 17px;
+color: #fff;
+left: 25px;
+position: absolute;
+top: 2px;
+}
+.send-btn .ref-text {
+font-size: 17px;
+color: #fff;
+left: 65px;
+position: absolute;
+top: 2px;
+}
+.send-btn .auto-text {
+font-size: 17px;
+color: #fff;
+left: 35px;
+position: absolute;
+top: 2px;
+}
+.send-btn .edit-text {
+font-size: 17px;
+color: #fff;
+left: 80px;
+position: absolute;
+top: 2px;
+}
+.history-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.history-btn .history-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 90px;
+position: absolute;
+top: 1px;
+}
+.history-btn .profile-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 55px;
+position: absolute;
+top: 1px;
+}
+.history-btn .social-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 55px;
+position: absolute;
+top: 1px;
+}
+.history-btn .sign-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 57px;
+position: absolute;
+top: 1px;
+}
+.light-purple-btn {
+position:relative;
+float:left;
+}
+.light-purple-btn .light-purple-text {
+color: #FFFFFF;
+font-size: 15px;
+left: 10px;
+position: absolute;
+top: 2px;
+}
+.pic-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.pic-btn .pic-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 55px;
+position: absolute;
+top: 1px;
+}
+.attach-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.attach-btn .attach-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 60px;
+position: absolute;
+top: 1px;
+}
+.images-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.images-btn .images-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 80px;
+position: absolute;
+top: 1px;
+}
+.banner-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.banner-btn .banner-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 65px;
+position: absolute;
+top: 1px;
+}
+.lib-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.lib-btn .lib-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 70px;
+position: absolute;
+top: 1px;
+}
+.social-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.social-btn .social-text {
+color: #FFFFFF;
+font-size: 16px;
+left: 55px;
+position: absolute;
+top: 1px;
+}
+/**************STYLE FOR TEXT BUTTON******************/
+.txtbutton {
+margin-bottom: 15px;	
+}
+.txt-btn {
+position:relative;
+float:left;
+}
+.txt-btn .txt-text {
+font-size: 17px;
+color: #fff;
+left: 40px;
+position: absolute;
+top: 4px;
+}
+/*****************STYLE FOR TIME LINE*****************/
+.ui-widget-content.time {
+margin-top: 10px;
+width: 215px;
+height: 240px;
+border-color: #939393;
+border-bottom: none;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.time p {
+font-size: 18px;
+padding-left: 20px;
+color: #939393;
+}
+.ui-widget-header.timefooter {
+margin-top: 23px;
+padding-left: 110px;
+border-color: #939393;
+background-image:url('http://sandbox.my.iboomerang.com/img/Dashboard_grn_btn.png');
+
+}
+/**************STYLE FOR TIME LINE ITEMS**************/
+.tl-items {
+font-size: 12px;
+padding-left: 40px;
+padding-top: 25px;}
+/*******************STYLE FOR TAB 2 - SEND EMAIL***************************/
+.tab-2-container {
+padding-top: 35px;	
+}
+.ui-widget-header.step1 {
+background-color: #FFF;
+width: 300px;
+height: 40px; 	
+color: #40428F;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+padding-left: 25px;
+}
+.ui-widget-content.step1 {
+border: none;
+display: none;
+}
+.ui-widget-header.sendeditor {
+padding-left: 20px;	
+}
+.ui-widget-header.options {
+padding-left: 20px;	
+}
+.ui-widget-content.options {
+padding-left: 20px;
+margin-bottom: 18px;	
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.who {
+padding-left: 20px;	
+}
+.ui-widget-content.who {
+margin-bottom: 18px;
+padding-left: 20px;	
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.attachment {
+padding-left: 20px;	
+}
+.ui-widget-content.attachment  {
+padding-left: 20px;
+margin-bottom: 18px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.send {
+padding-left: 20px;	
+}
+.ui-widget-content.send {
+padding-left: 20px;
+margin-bottom: 18px;  
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.selectTemplate {
+width: 245px;
+margin-bottom: 20px;
+margin-top: 10px;	
+}
+.selectLabel {
+margin-bottom: 10px;	
+}
+.tab-2-container p{
+font-size: 16px; 
+color: #373888;	
+}
+table.sendToChoice {
+font-size: 12px;
+width: 244px;
+margin-top: 15px;
+}
+table.sendToChoice td {
+color: #000;
+padding-bottom: 10px;
+}
+table.sendToChoice input {
+float: right;
+width: 193px;	
+}
+table.sendToChoice select {
+float: right;
+width: 155px;	
+}
+table.scheduleEmailLater {
+font-size: 12px;
+width: 300px;
+margin-top: 15px;
+}
+table.scheduleEmailLater td {
+color: #000;
+}
+table.scheduleEmailLater h2 {
+font-size: 14px;
+color: 	#40428F;
+margin-bottom: 15px;
+}
+table.scheduleEmailLater input {
+float: right;
+margin-right: 100px;	
+}
+.sendFrom {
+width: 245px;
+margin-bottom: 20px;
+margin-top: 10px;	
+}
+.listFiles {
+width: 245px;
+margin-top: 20px;
+margin-bottom: 10px;	
+}
+.attachFile {
+margin-bottom: 10px;	
+}
+#selectSeries {
+text-decoration: none; 	
+}
+table.sendLaterTable {
+font-size: 12px;
+width: 175px;
+margin-bottom: 10px;
+float: left;
+}
+table.sendLaterTable td {
+color: #000;
+padding: 5px;
+}
+table.sendLaterTable input {
+float: right;
+width: 64px;
+}
+table.sendLaterTable select {
+float: right;
+width: 68px;;	
+}
+.saveEmail {
+margin-bottom: 10px;	
+}
+#scheduleLater {
+cursor: pointer;
+}
+.ui-widget-header.csvFile {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+padding-left: 15px;	
+}
+.ui-widget-content.csvFile {
+padding-left: 15px;	
+margin-bottom: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.csvExample {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+padding-left: 15px;	
+}
+.ui-widget-content.csvExample {
+padding-left: 15px;
+width: 325px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+#browseCSV {
+margin-right: 25px;
+margin-top: 10px;	
+}
+#browseCSVInput { 
+margin-left: 10px;
+}
+#uploadCSV {
+margin-left: 10px;
+margin-bottom: 103px;	
+}
+#download {
+font-size: 10px;
+margin-top: 5px;
+margin-bottom: 5px;	
+margin-left: 200px;
+}
+table.timepicker {
+width: 300px;	
+}
+
+/******************STYLE FOR TAB - 3 MANAGE TEMPLATES********************/
+.ui-widget-header.manage {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+padding-left: 15px;	
+}
+.ui-widget-header.banner {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+padding-left: 15px;	
+}
+.ui-widget-header.attach {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;	
+padding-left: 15px;	
+}
+.ui-widget-content.manage {
+margin-bottom: 15px;	
+padding-left: 15px;	
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.banner {
+margin-bottom: 15px;	
+padding-left: 15px;	
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.attach {
+padding-left: 15px;	
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.editor {
+padding-left: 8px;
+}
+.ui-widget-content.editor {
+padding-left: 8px;
+height: 725px;
+}
+.tab-3-container h2 {
+font-size: 16px; 
+color: #4CBDF5;	
+}
+.selectCompany option {
+width: 200px;	
+}
+.tname {
+color: #31368A;	
+}
+#upload {
+margin-bottom: 10px;	
+}
+#manageAttach {
+margin-bottom: 10px;	
+}
+.manageButtons {
+margin-top: 15px;
+}
+/******************STYLE FOR TAB - 4 MANAGE LIST ***************************/
+.ui-widget-header.searchList {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+}
+.ui-widget-header.companyList {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+}
+.ui-widget-header.myLists {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+}
+.ui-widget-header.compLists {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+}
+.ui-widget-content.searchList {
+padding-left: 20px;
+height: 100px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+}
+.ui-widget-content.searchList p {
+font-size: 12px;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+font-style: italic;
+margin-top: 5px;
+color: #339;
+}
+.ui-widget-content.companyList {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+height: 100px;
+}
+.ui-widget-content.companyList p {
+font-size: 12px;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+font-style: italic;
+margin-top: 5px;
+color: #339;	
+}
+.ui-widget-content.myLists {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+height: 100px;
+}
+.ui-widget-content.compLists {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+height: 100px;
+}
+.ui-widget-header.newlist {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+padding-left: 20px;
+border-color: #1C94C4;	
+}
+.ui-widget-content.newlist {
+height: 650px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.newlist h2 {
+margin-top: 20px;
+float: left;
+}
+#searchList {
+width: 300px;	
+}
+#searchButton {
+font-size: 12px;
+float: right;
+margin-top: 10px;
+margin-right: 10px;
+}
+#compName {
+width: 300px;
+margin-top: 15px;	
+}
+#myList {
+width: 300px;	
+margin-top: 15px;
+}
+#compList {
+width: 300px;
+margin-top: 15px;
+}
+.listentry {
+margin-left: 100px;	
+margin-top: 20px;
+}
+#listName { 
+width: 220px; 
+margin-left: 10px;
+}
+.listTable {
+width: 400px;
+margin-top: 15px;
+cellpadding: 5px;
+}
+.listTable input {
+width: 185px;	
+}
+.listTable td {
+padding-bottom: 10px;
+}
+.listfooter {
+position: absolute;
+width: 539px;
+height: 40px;
+background: #373888;
+font-size: 10px;
+float: left;
+bottom: 35px;
+}
+#sendList {
+margin-top: 5px;
+margin-left: 15px;
+}
+#saveList {
+margin-left: 300px;
+}
+#chooseFile {
+margin-top: 15px; 
+margin-left: 210px;	
+}
+#uploadFile {
+margin-left: 230px;
+margin-toP: 25px;
+}
+.ui-widget-content.import {
+width: 545px;
+height: 150px;
+}
+.import {
+float: left;
+}
+.example {
+float: right;	
+}
+table.searchTable {
+font-size: 12px;
+width: 300px;
+background-color: #F7B64B;
+color: #fff;
+}
+table.searchTable td {
+color: #000;
+padding: 5px;
+background-color: #FFF;
+}
+#saveList { }
+#addRows { float: left; font-size: 12px; }
+#export { float: right; font-size: 12px; }
+#editList { font-size: 12px; }
+#delList1{ font-size: 12px; margin-top: 15px; }
+#editList1{ font-size: 12px; margin-top: 15px; }
+#sendList1{ font-size: 12px; margin-top: 15px; }
+#delList2{ font-size: 12px; margin-top: 15px;}
+#editList2{ font-size: 12px; margin-top: 15px; }
+#sendList2{ font-size: 12px; margin-top: 15px; }
+#importList { margin-left: 100px; margin-top: 20px; }
+/******************STYLE FOR TAB - 5 - MANAGE SERIES ***********************/
+.ui-widget-header.companySelect {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+}
+.ui-widget-content.companySelect {
+padding-left: 20px;
+height: 100px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.series {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+padding-left: 20px;
+border-color: #1C94C4;
+}
+.ui-widget-content.series {
+height: 682px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.manageSeries {
+padding-left: 20px;
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+}
+.ui-widget-content.manageSeries {
+padding-left: 20px;
+height: 520px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.manageSeries p {
+font-size: 12px;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+font-style: italic;
+margin-top: 10px;
+color: #339;	
+}
+#companySelect {
+width: 300px;
+margin-top: 10px;	
+}
+#selectCompany {
+float: right;
+margin-right: 15px;
+margin-top: 10px;
+}
+#compSeries {
+width: 300px;
+margin-top: 10px;	
+}
+#mySeries {
+width: 300px;
+margin-top: 10px;	
+}
+#selectCSeries {
+float: right;
+margin-right: 15px;
+margin-top: 10px;
+}
+#selectMSeries {
+float: right;
+margin-right: 15px;
+margin-top: 10px;
+}
+#createCSeries {
+float: left;
+margin-top: 10px;
+}
+#createMSeries {
+float: left;
+margin-top: 10px;
+}
+.secondSelect {
+padding-top: 60px;	
+}
+.seriesname {
+margin-left: 85px;	
+}
+.addTemplateSeries {
+margin-bottom: 50px;
+margin-right: 20px;	
+}
+#addTemplateSeries {
+float: right;
+}
+.ui-widget-header.serieslist {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+padding-left: 25px;
+height: 25px;
+font-size: 15px;
+cursor: pointer;
+}
+.ui-widget-content.serieslist {
+height: 160px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.serieslistmore {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+padding-left: 25px;
+height: 25px;
+font-size: 15px;
+cursor: pointer;
+margin-top: 10px;
+}
+.ui-widget-content.serieslistmore {
+height: 160px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+display: none;
+}
+#plus { 
+float: right;
+margin-right: 20px;  
+}
+.templateDropDown {
+margin-left: 20px;
+margin-top: 15px;
+margin-bottom: 10px;
+}
+.sendDate {
+margin-left: 20px;	
+margin-bottom: 10px;
+}
+.selectRepeat {
+margin-left: 20px;	
+margin-bottom: 10px;
+}
+.seriesButtons {
+margin-left: 280px;
+margin-top: 10px;
+}
+.seriesfooter {
+position: absolute;
+width: 539px;
+height: 40px;
+background: #373888;
+font-size: 10px;
+float: left;
+margin-top: 488px;
+}
+#sendseries {
+margin-top: 5px;	
+}
+#deleteSeries2 {
+margin-left: 310px;
+margin-top: 5px;
+}
+#addNewTemplate label  { display: table-cell; white-space: nowrap; }
+#addToSeries { display: block; }
+#addNewTemplate .ui-dialog {	
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+height: 500px;
+}
+.group {
+width: 200px;
+margin-bottom: 20px;
+}
+.picktemplate {
+width: 200px;
+margin-bottom: 20px;	
+}
+/******************STYLE FOR TAB - 6 ADDRESS BOOK***********************/
+.ui-widget-header.abook {
+margin-top: 10px;
+width: 215px;
+background-image:url('http://sandbox.my.iboomerang.com/img/mod_header_grey_bg.png');
+border-color: #939393;
+height: 40px;
+font-size: 24px;
+text-align: center;
+}
+.ui-widget-content.abook {
+width: 215px;
+height: 220px;
+border-color: #939393;
+border-top: none;
+border-bottom: none;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.addressList {
+font-size: 18px;
+padding-left: 65px;
+padding-top: 35px;
+}
+.ui-widget-header.abook hr {
+color: #00F;
+padding-right: 15px;	
+}
+.ui-widget-header.afooter {
+background-image:url('http://sandbox.my.iboomerang.com/img/mod_header_grey_bg.png');
+height: 30px;
+margin-top: 100px;
+border-color: #939393;
+font-size: .7em;
+padding-left: 3px;
+padding-top: 3px;
+}
+.importcontacts {
+height: 45px;
+text-align: left;
+color: #fff;
+font-size: 26px;
+margin-bottom: 35px;
+background-image: url('http://sandbox.my.iboomerang.com/img/profile_drk_blue_bg.png');
+border-color: #1C94C4;
+}
+#importcontacts a {
+text-decoration: none;	
+}
+#importContact a:visited {
+text-decoration: none; 	
+}
+.ui-widget-header.recentlists {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_grey_bg.png');
+border-color: #939393;
+height: 30px;
+font-size: 20px;
+padding-left: 20px;
+}
+.ui-widget-content.recentlists {
+margin-bottom: 15px;
+height: 165px;
+border-color: #B2B2B2;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.recentadded {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_grey_bg.png');
+border-color: #939393;
+height: 30px;
+font-size: 20px;
+}
+.ui-widget-content.recentadded {
+height: 365px;
+background-color: #EEEEEE;	
+border-color: #B2B2B2;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-header.addresslist {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+height: 40px;
+font-size: 25px;
+}
+.ui-widget-content.addresslist {
+height: 650px;
+background-color: #EEEEEE;
+border-color: #5BC0F2;
+border-bottom-left-radius:10px;
+border-bottom-right-radius:10px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+/* lti update */
+.ui-widget-header.recentFooter {
+background-image:url('http://sandbox.my.iboomerang.com/img/mod_header_grey_bg.png');
+height: 30px;
+position:absolute;
+bottom:18px;
+width:334px;
+border-color: #939393;
+font-size: .7em;
+padding-left: 3px;
+padding-top: 3px;
+}
+
+/* lti update */
+.ui-widget-header.listFooter {
+background-image:url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+height: 30px;
+position:absolute;
+bottom:18px;
+border-color: #939393;
+font-size: .7em;
+padding-left: 3px;
+padding-top: 3px;
+position: absolute;
+width: 535px;
+}
+#recentTable {
+background-color: #EEEEEE;	
+}
+#recentTable th {
+border: none;
+}
+#recentTable td {
+background-color: #EEEEEE;	
+}
+#recentAdded {
+margin-top: 50px;
+}
+#recentAdded th{
+border: none;
+}
+#recentAdded td {
+background-color: #EEEEEE;	
+}
+.search {
+font-size: 20px;
+}
+.top-book {
+margin-top: 10px;
+}
+.letter-bar {
+background-color: #5BC0F2;
+height: 30px;
+margin-top: 10px;
+font-size: 20px;
+text-align: center;
+}
+.send-recent-added {
+margin-left: 20px;	
+}
+.delete-recent-added {
+margin-left: 100px;	
+}
+.delete-list {
+margin-left: 290px;	
+}
+.iconcontact {
+float: left;
+padding-right: 5px;
+}
+.marketing-list-button {
+margin-left: 65px;	
+}
+#importContact  {
+text-decoration: none;	
+}
+#importContact a {
+color: #FFF;	
+text-decoration: none;	
+}
+#importContact a:visited {
+color: #FFF;
+text-decoration: none;	
+}
+#browseVcard {
+float: left;
+margin-top: 20px;	
+}
+#browseInput {
+width: 170px;
+margin-left: 5px;
+height: 20px;
+margin-top: 22px;
+}
+.quick-create-contact label  { display: table-cell; white-space: nowrap; }
+.quick-create-contact .ui-dialog {	
+position: fixed; 
+padding: .2em; 
+overflow: hidden; 
+margin-left: 515px; 
+margin-top: 100px;
+height: 800px;
+}
+.quick-create-contact input { 
+margin-bottom: 15px;
+}
+.addContact {
+font-size: 12px;
+float: left;
+margin-right: 120px
+}
+.contactform label  { display: table-cell; white-space: nowrap; }
+#contactSubmit { display: block; }
+.contactform .ui-dialog {	
+
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+height: 500px;
+}
+/******************STYLE FOR TAB - 7 MY PROFILE****************/
+/*LTI*/
+.ui-widget-header.profile {
+margin-top: 10px;
+background-image:url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+border-color: #1C94C4;
+height: 40px;
+font-size: 24px;
+border-top-left-radius:10px;
+border-top-right-radius:10px;
+}
+.ui-widget-content.profile {
+height: 390px;
+border-color: #1C94C4;
+border-top: none;
+border-bottom-right-radius:10px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.profile_container {
+padding-top: 35px;
+}
+.grid_3.pic {
+border-right: #c8c8c8 1px solid;
+height: 220px;	
+width: 240px;
+}
+.grid_3.pic h2 {
+font-size: 14px;
+color: #4D4E91;	
+padding-left: 10px;
+}
+.grid_3.pic img {
+padding-left: 30px;
+}
+.delete_pic {
+padding-top: 10px;
+}
+.add_pic {
+padding-left: 20px;
+padding-top: 40px;
+}
+.add_pic p {
+font-weight: bold;	
+}
+/******************STYLE FOR TAB - 8 EMAIL SIGN****************/
+.ui-widget-header.emailsign {
+margin-top: 10px;
+background-image:url('http://sandbox.my.iboomerang.com/img/profile_drk_blue_bg.png');
+border-color: #1C94C4;
+height: 40px;
+font-size: 24px;
+}
+.ui-widget-content.emailsign {
+height: 680px;
+border-color: #1C94C4;
+border-top: none;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.sign_container {
+padding-top: 35px;	
+}
+.grid_3.sender_account {
+float: right;
+padding-right: 150px;
+border-left: #c8c8c8 1px solid;
+height: 500px;
+width: 220px;
+}
+.grid_3.sender_account h2 {
+font-size: 14px;
+color: #4D4E91;	
+padding-left: 10px;
+}
+.my_sender {
+padding-left: 20px;
+width: 350px;	
+}
+.my_sender select {
+width: 200px;	
+margin-left: 20px;
+}
+.company_select {
+padding-left: 20px;
+padding-bottom: 10px;
+width: 350px;	
+}
+.company_select select {
+width: 180px;	
+margin-left: 20px;
+}
+.extra_senders {
+margin-top: 20px;
+}
+#ett_more_senders {
+display: none;	
+}
+#ett_more_senders label  { display: table-cell; white-space: nowrap; }
+#ett_more_senders .ui-dialog {	
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+margin-top: 100px;
+height: 500px;
+}
+.sender-table td {
+width: 200px;
+}
+.sender_img {
+padding-top: 20px;
+padding-bottom: 25px;
+}
+.agent_thumb {
+float: right;
+margin-right: 15px;
+margin-top: 10px;
+}
+.ui-widget-header.profile-img {
+padding-left: 15px;	
+}
+.ui-widget-content.profile-img {
+height: 120px;
+}
+.ui-widget-header.sender-info-sign {
+padding-left: 10px;
+}
+.ui-widget-content.sender-info-sign {
+height: 375px;
+padding-left: 15px;
+padding-top: 5px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.sender-info-sign td {
+padding-bottom: 2px; 	
+}
+.sender_account_form {
+margin-top: 25px;	
+}
+.delete_pic_2 {
+padding-top: 10px;
+padding-left: 10px;
+}
+.add_pic_2 {
+padding-left: 20px;
+padding-top: 10px;
+}
+.add_pic_2 p {
+font-weight: bold;	
+}
+.browse2 {
+margin-left: 25px;
+margin-top: 5px;	
+}
+.edit_info2 {
+margin-top: 5px;
+padding-left: 111px;
+}
+#edit-form2 label  { display: table-cell; white-space: nowrap; }
+#edit-form2 .ui-dialog {	
+
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+height: 500px;
+}
+#edit-form2 input {
+width: 270px; 	
+}
+#edit-form input {
+width: 270px;	
+}
+/*  lti */
+#new-form input {
+width: 270px;	
+}
+.change-button2 {
+margin-top: 5px;	
+}
+.referral-link {
+padding-left: 10px;
+padding-top: 10px;
+}
+.ref-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.ref-btn .ref-text {
+color: #FFFFFF;
+font-size: 13px;
+left: 40px;
+position: absolute;
+top: 2px;
+}
+.social-link {
+padding-left: 50px;
+}
+.social-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.social-btn .social-text {
+color: #FFFFFF;
+font-size: 12px;
+left: 45px;
+position: absolute;
+top: 2px;
+}
+.grid_5.sender {
+border-right: #c8c8c8 1px solid;
+height: 220px;	
+width: 330px;
+}
+.grid_5.sender h2 {
+font-size: 14px;
+color: #4D4E91;	
+padding-left: 10px;
+}
+.sender-info-table {
+width: 300px;
+}
+.sender-info-table td {
+color: #a5a5a5;
+padding-bottom: 1px;
+background-color: ;
+padding-left: 10px;
+font-size: 15px; 
+}
+.first-td {
+width: 150px;	
+}
+.second-td {
+width: 150px;	
+}
+.browse {
+margin-left: 25px;	
+}
+.edit_info {
+margin-top: 22px;
+margin-left: 25px;
+}
+#edit-form label  { display: table-cell; white-space: nowrap; }
+#edit-form .ui-dialog {	
+
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+margin-top: 100px;
+height: 500px;
+}
+/* lti     */
+#new-form label  { display: table-cell; white-space: nowrap; }
+#new-form .ui-dialog {	
+
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+margin-top: 100px;
+height: 500px;
+}
+.change-button {
+padding-left: 20px;
+padding-top: 40px;
+}
+.sdata {
+padding-left: 10px;
+}
+.manage_social {
+margin-top: 30px; 
+margin-left: 60px;	
+}
+.manage_groups {
+margin-top: 10px; 
+margin-left: 60px; 	
+}
+.ui-widget-content.subgroups1 {
+margin-top: 6px;
+margin-bottom: 8px; 
+height: 100px;
+width: 259px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.subgroups2 {
+margin-top: 6px; 
+height: 270px; 	
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+#manageSubGroups h1 { 
+font-size: 18px;
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#listGroups {
+margin-left: 15px;
+margin-top: 5px; 	
+}
+#listGroups td {
+padding-right: 10px;	
+}
+#newGroupName {
+width: 200px; 
+}
+#addSubgroup { margin-left: 135px;
+margin-top: 10px;
+}
+#newSubgroup {
+margin-top: 7px;
+margin-left: 15px; 	
+}
+#listUsertypes {
+margin-left: 11px;
+margin-top: 10px;	
+width: 500px;
+}
+#variables {
+margin-left: 20px; 
+margin-top: 20px; 
+width: 300px; 	
+}
+
+/* updated width */
+.first-td {
+width: 30px;	
+}
+/* updated width */
+.second-td {
+width: 160px;	
+}
+.browse {
+margin-left: 5px;	
+}
+/* lti update*/
+.browseProfile {
+
+margin-left: 1px;	
+}
+
+
+.edit_info {
+margin-top: 22px;
+margin-left: 25px;
+/* LTI Update */
+width:290px;
+/* LTI Update */
+
+}
+#edit-form label  { display: table-cell; white-space: nowrap; }
+#edit-form .ui-dialog {	
+
+position: fixed; 
+padding: .2em; 
+width: 300px;
+overflow: hidden; 
+margin-left: 515px; 
+margin-top: 100px;
+height: 500px;
+}
+.change-button {
+padding-left: 20px;
+padding-top: 40px;
+}
+.sdata {
+padding-left: 10px;
+}
+/*************************COMPANY INFO CSS***********************/
+.grid_3.cinfo {
+width: 280px;	
+}
+.grid_3.cinfo h2 {
+font-size: 14px;
+color: #4D4E91;	
+padding-left: 10px;
+}
+.company_info {
+width: 280px;	
+}
+.company_info select {
+float: right;	
+}
+.company-info-table td {
+padding-bottom: 10px;
+padding-right: 2px;
+width:300px;	
+}
+.compdata {
+padding-left: 20px;
+float: right;
+
+}
+.sub-btn-div {
+padding-left: 50px;
+padding-top: 10px;
+}
+.sub-btn {
+position:relative;
+float:left;
+padding-left: 30px;
+}
+.sub-btn .sub-text {
+color: #FFFFFF;
+font-size: 14px;
+left: 50px;
+position: absolute;
+top: 2px;
+}
+.save-button {
+align: bottom;
+}
+.subgroup {
+margin-left: 70px;	
+}
+/*******************************HISTORY*******************************/
+.ui-widget-header.history {
+background-image: url('http://sandbox.my.iboomerang.com/img/mod_header_blue_bg.png');
+padding-left: 20px;
+border-color: #1C94C4;
+}
+.ui-widget-content.history {
+height: 650px;
+background-image: url('http://sandbox.my.iboomerang.com/img/ui-content-background.png');
+background-repeat: repeat;
+}
+.ui-widget-content.history h2 {
+font-size: 20px; 
+margin-top: 15px;	
+}
+#pending {
+float: right;
+margin-top: 15px;
+margin-right: 20px;	
+}
+#historyFooter {
+position: absolute;
+width: 859px;
+height: 40px;
+background: #373888;
+font-size: 10px;
+float: left;
+bottom: 162px;
+}
+#deleteHistory {
+margin-left: 600px;
+margin-top: 7px;
+}
+.searchBar {
+margin-left: 109px;	
+}
+.searchBar input {
+width: 230px;
+}
+#go {
+font-size: 12px;
+margin-left: 5px;	
+}
+#viewEmailTable th {
+}
+#viewTexts {
+margin-top: 15px;
+margin-left: 430px;	
+}
